@@ -6,6 +6,8 @@
 
 ###### In my spare time I enjoy the freedom of travelling in my campervan, going on long walks and taking photos.
 
+![Croaghaun, County Mayo, Ireland](https://github.com/davemakebeer/davemakebeer/blob/main/IMG_6884.jpeg?raw=true)
+
 <!--
 **davemakebeer/davemakebeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
