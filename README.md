@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Hi, I’m Dave. In another life I was Sherlock Holmes’ apprentice. In this life I’m an aspiring data analyst with a keen eye for detail and a knack for joining the dots.
+#### I’m Dave. In another life I was Sherlock Holmes’ apprentice. In this life I’m an aspiring data analyst with a keen eye for detail and a knack for joining the dots.
 
 #### After over a decade of helping breweries to streamline their production and improve the quality of their beers I’m bringing my wealth of knowledge and transferable skills and making a career transition into the world of data analytics and software development using Python.
 
