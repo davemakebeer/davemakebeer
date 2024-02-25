@@ -4,7 +4,7 @@
 
 ###### After over a decade of helping breweries to streamline their production and improve the quality of their beers I’m bringing my wealth of knowledge and transferable skills and making a career transition into the world of data analytics and software development using Python.
 
-###### In my spare time I enjoy the freedom of travelling in my campervan, going on long walks and taking photos.
+###### In my spare time I enjoy the freedom of travelling in my campervan and taking photos.
 
 ![Croaghaun, County Mayo, Ireland](https://github.com/davemakebeer/davemakebeer/blob/main/IMG_6884.jpeg?raw=true)
 
