@@ -16,15 +16,15 @@ Throughout my career, I've had the opportunity to create hundreds of unique beer
 
 ### Open Source Contributions
 
-Since transitioning to tech, I've been introduced to diverse range of programming and data analysis skills, including machine learning. My abilities are showcased in projects such as:
+Since transitioning to tech, I've been introduced to diverse range of programming and data analysis skills, some of which are best showcased in projects such as:
 
-- Amazon_Review_Python ([link to Repository 1](https://github.com/davemakebeer/Amazon_Reviews_Python))
+- ([Amazon_Review_Python](https://github.com/davemakebeer/Amazon_Reviews_Python))
   - A work in progress, this program utilises NLP for sentiment analysis. These values are then to be analysed for trends and patterns.
 
-- Insurance_Cost_Python ([link to Repository 2](https://github.com/davemakebeer/Insurance_Cost_Predictions))
+- ([Insurance_Cost_Python](https://github.com/davemakebeer/Insurance_Cost_Predictions))
   - As part of my data science training course, theoretical insurance data is manipulated, processed and analysed, utilising machine learning to make predictions.
  
-- Radiation_Levels_Python ([link to Repository 3](https://github.com/davemakebeer/Radiation_Levels_Python))
+- ([Radiation_Levels_Python](https://github.com/davemakebeer/Radiation_Levels_Python))
   - A short program for gathering datapoints, making calculations and displaying results. Skills displayed: functions, lists, dictionaries, for loops, while loops, calculations, error handling.
 
 Feel free to explore my GitHub profile for a comprehensive list of my contributions and projects.
@@ -33,7 +33,7 @@ Feel free to explore my GitHub profile for a comprehensive list of my contributi
 
 I'm always open to connecting with like-minded individuals and collaborating on exciting projects. You can reach me through:
 
-- [LinkedIn]([link to your LinkedIn profile](https://www.linkedin.com/in/davemakebeer/))
+- ([LinkedIn](https://www.linkedin.com/in/davemakebeer/))
 
 Let's build something amazing together!
 
