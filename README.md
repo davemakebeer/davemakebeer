@@ -12,7 +12,7 @@ After over a decade of helping breweries to streamline their production and impr
 
 ### Professional Background
 
-Throughout my career, I've had the opportunity to create hundreds of unique beer recipes; to gather, analyse and apply data to achieve measureable results; and to lead and mentor talented teams. My strength lies in my adaptability and curiousity, and I'm always eager to tackle new challenges.
+Throughout my career, I've had the opportunity to design and produce hundreds of unique beer recipes; to gather, analyse and apply data to achieve measureable results; and to lead and mentor talented teams. My strength lies in my adaptability and curiousity, and I'm always eager to tackle new challenges.
 
 ### Open Source Contributions
 
